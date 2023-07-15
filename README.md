@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔗 I’m currently working on my website birwi.net
+- 🔗 I’m currently working on my [website](https://birwi.net)
 
 <!--
 **Birwi/Birwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
