@@ -1,8 +1,5 @@
 ### Hi there 👋
-#### 🌱 I’m currently learning
-- [Node.js](https://nodejs.org/) with NoSQL DBs ([Express.js](https://expressjs.com/) and [MongoDB](https://www.mongodb.com/))
-- [EasyPHP](https://www.easyphp.org/)
-- Networking with [Cisco Packet Tracer](https://www.netacad.com/cisco-packet-tracer)
+#### 🌱 I’m currently waiting to start University
 
 🔗 My [website](https://birwi.github.io)
 
