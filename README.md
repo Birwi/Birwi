@@ -1,5 +1,9 @@
 ### Hi there 👋
-#### 🌱 I’m currently waiting to start University
+#### 🌱 I’m currently studying computer engineering (1st academic year):
+- Mathematical Analysis I
+- Algebra and Logic
+- Fundamentals Of Computing
+
 
 🔗 My [website](https://birwi.github.io)
 
