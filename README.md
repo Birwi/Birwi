@@ -2,7 +2,7 @@
 #### 🌱 I’m currently studying computer engineering (1st academic year):
 - Mathematical Analysis I
 - Algebra and Logic
-- Fundamentals Of Computing
+- Fundamentals of Computing
 
 
 🔗 My [website](https://birwi.github.io)
