@@ -3,6 +3,9 @@
 - Mathematical Analysis I
 - Algebra and Logic
 - Fundamentals of Computing
+- Geometry (with Linear Algebra)
+- Physics I
+- Automation Lab
 
 
 🔗 My [website](https://birwi.github.io)
